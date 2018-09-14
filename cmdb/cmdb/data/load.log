@@ -1,0 +1,887 @@
+2018-09-08 21:39:58.503 libso1.so 添加配置文件/home/weienjun/wiki/practice2.1/conf/libso1.conf
+2018-09-08 21:39:58.503 libso2.so 添加配置文件/home/weienjun/wiki/practice2.1/conf/libso2.conf
+2018-09-08 21:39:58.503 libso3.so 添加配置文件/home/weienjun/wiki/practice2.1/conf/libso3.conf
+2018-09-08 21:40:31.279  can't lock /home/weienjun/wiki/practice2.1/data/pid_file.pid
+2018-09-08 21:40:31.279 thread is exist
+2018-09-08 21:40:40.580  can't lock /home/weienjun/wiki/practice2.1/data/pid_file.pid
+2018-09-08 21:40:40.580 thread is exist
+2018-09-08 21:41:00.512 libso1.so 添加配置文件/home/weienjun/wiki/practice2.1/conf/libso1.conf
+2018-09-08 21:41:00.512 libso2.so 添加配置文件/home/weienjun/wiki/practice2.1/conf/libso2.conf
+2018-09-08 21:41:00.512 libso3.so 添加配置文件/home/weienjun/wiki/practice2.1/conf/libso3.conf
+2018-09-10 10:16:19.666 Turn the background success
+2018-09-10 10:16:19.667 libso1.so 添加配置文件/home/weienjun/wiki/practice2.1/conf/libso1.conf
+2018-09-10 10:16:19.667 libso2.so 添加配置文件/home/weienjun/wiki/practice2.1/conf/libso2.conf
+2018-09-10 10:16:19.667 libso3.so 添加配置文件/home/weienjun/wiki/practice2.1/conf/libso3.conf
+2018-09-10 10:19:32.656  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-10 10:19:32.656 thread is exist
+2018-09-10 10:19:51.480 close pid : 27528
+2018-09-10 10:27:55.289 Turn the background success
+2018-09-10 10:27:55.290 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 10:27:55.290 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 10:27:55.290 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 10:28:13.336 close pid : 80128
+2018-09-10 10:30:30.436  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-10 10:30:30.436 thread is exist
+2018-09-10 10:30:48.382 close pid : 80128
+2018-09-10 10:34:17.921  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-10 10:34:17.921 thread is exist
+2018-09-10 10:34:31.230 close pid : 0
+2018-09-10 10:36:07.918 close pid : 801
+2018-09-10 10:36:14.392 Turn the background success
+2018-09-10 10:36:14.393 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 10:36:14.393 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 10:36:14.393 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 10:36:30.882 close pid : 4867
+2018-09-10 10:36:30.882 close pid : 4867
+2018-09-10 10:36:55.467 close pid : 4867
+2018-09-10 10:36:58.857 close pid : 4867
+2018-09-10 10:37:01.617 Turn the background success
+2018-09-10 10:37:01.617 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 10:37:01.617 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 10:37:01.617 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 10:37:22.122 close pid : 5257
+2018-09-10 10:37:22.122 close pid : 5257
+2018-09-10 10:38:35.940 Turn the background success
+2018-09-10 10:38:35.941 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 10:38:35.941 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 10:38:35.941 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 10:38:44.006  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-10 10:38:44.007 thread is exist
+2018-09-10 10:38:54.672 close pid : 0
+2018-09-10 10:39:42.863 close pid : 0
+2018-09-10 10:39:45.496  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-10 10:39:45.496 thread is exist
+2018-09-10 10:39:47.871 close pid : 0
+2018-09-10 10:40:17.443 close pid : 6081
+2018-09-10 10:57:27.128 Turn the background success
+2018-09-10 10:57:27.129 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 10:57:27.129 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 10:57:27.129 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 10:57:44.544 close pid : 14762
+2018-09-10 10:57:44.545 close pid : 14781
+2018-09-10 10:59:09.446 Turn the background success
+2018-09-10 10:59:09.447 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 10:59:09.447 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 10:59:09.447 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 10:59:12.071  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-10 10:59:12.071 thread is exist
+2018-09-10 10:59:14.038  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-10 10:59:14.038 thread is exist
+2018-09-10 10:59:16.775 close pid : 15660
+2018-09-10 10:59:16.775 close pid : 15730
+2018-09-10 11:57:53.986 Turn the background success
+2018-09-10 11:57:53.987 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 11:57:53.987 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 11:57:53.987 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 11:58:04.922  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-10 11:58:04.922 thread is exist
+2018-09-10 11:58:12.890 close pid : 11819
+2018-09-10 11:58:12.890 close pid : 0
+2018-09-10 11:59:07.046 Turn the background success
+2018-09-10 11:59:07.046 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 11:59:07.047 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 11:59:07.047 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 11:59:14.600  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-10 11:59:14.600 thread is exist
+2018-09-10 11:59:20.608 close pid : 12423
+2018-09-10 11:59:20.608 close pid : 0
+2018-09-10 12:01:25.373 Turn the background success
+2018-09-10 12:01:25.374 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 12:01:25.374 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 12:01:25.374 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 12:01:39.623 close father pid : 13647
+2018-09-10 12:01:39.623 close child pid : 0
+2018-09-10 12:06:27.650 Turn the background success
+2018-09-10 12:06:27.651 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 12:06:27.651 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 12:06:27.651 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 12:06:37.365  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-10 12:06:37.366 thread is exist
+2018-09-10 12:06:47.770 close father pid : 16396
+2018-09-10 12:06:47.770 close child pid : 0
+2018-09-10 12:06:47.771 close child pid : 16413
+2018-09-10 12:10:13.345 Turn the background success
+2018-09-10 12:10:13.345 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 12:10:13.346 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 12:10:13.346 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 12:10:25.799  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-10 12:10:25.799 thread is exist
+2018-09-10 12:10:32.988 close father pid : 18264
+2018-09-10 12:10:32.988 close child pid : 0
+2018-09-10 12:16:09.041 Turn the background success
+2018-09-10 12:16:09.041 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 12:16:09.041 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 12:16:09.042 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 12:16:19.742  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-10 12:16:19.742 thread is exist
+2018-09-10 12:16:22.148 close child pid : 0
+2018-09-10 12:16:24.148 close father pid : 21136
+2018-09-10 12:18:31.921 Turn the background success
+2018-09-10 12:18:31.922 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 12:18:31.922 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 12:18:31.922 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 12:18:40.050  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-10 12:18:40.050 thread is exist
+2018-09-10 12:18:41.818 close father pid : 22501
+2018-09-10 12:18:41.818 close child pid : 22501
+2018-09-10 12:19:49.584 Turn the background success
+2018-09-10 12:19:49.585 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 12:19:49.585 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 12:19:49.585 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 12:20:07.351  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-10 12:20:07.352 thread is exist
+2018-09-10 12:20:09.137 close father pid : 23222
+2018-09-10 12:20:09.137 close child pid : 23243
+2018-09-10 14:33:32.254 Turn the background success
+2018-09-10 14:33:32.255 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 14:33:32.255 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 14:33:32.255 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 14:33:34.256 close father pid : 20248
+2018-09-10 14:34:41.306 Turn the background success
+2018-09-10 14:34:41.307 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 14:34:41.307 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 14:34:41.307 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 14:34:43.308 close father pid : 20867
+2018-09-10 14:35:52.771 Turn the background success
+2018-09-10 14:35:52.772 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 14:35:52.772 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 14:35:52.772 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 14:36:03.195  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-10 14:36:03.195 thread is exist
+2018-09-10 14:36:16.686 close child pid : 21490
+2018-09-10 14:36:16.686 close father pid : 21474
+2018-09-10 15:11:21.960 Turn the background success
+2018-09-10 15:11:21.960 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 15:11:21.961 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 15:11:21.961 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 15:11:34.752  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-10 15:11:34.752 thread is exist
+2018-09-10 15:12:18.969 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 15:12:42.972 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 15:13:11.976 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 15:13:38.980 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 15:14:04.984 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 15:14:21.986 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 15:14:45.991 close child pid : 5672
+2018-09-10 15:14:45.991 close father pid : 5656
+2018-09-10 15:24:36.939 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 15:24:36.939 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 15:24:36.939 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 15:48:25.332 Turn the background success
+2018-09-10 15:48:25.333 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 15:48:25.333 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 15:48:25.333 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 15:50:04.281  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-10 15:50:04.281 thread is exist
+2018-09-10 15:50:34.898 close father pid : 23345
+2018-09-10 15:50:34.898 close child pid : 23361
+2018-09-10 15:56:09.343 Turn the background success
+2018-09-10 15:56:09.344 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 15:56:09.344 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 15:56:09.344 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 15:56:22.663 close father pid : 27344
+2018-09-10 15:56:22.663 close child pid : 27376
+2018-09-10 16:16:57.868 Turn the background success
+2018-09-10 16:16:57.868 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 16:16:57.869 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 16:16:57.869 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 16:17:17.288 close child pid : 4588
+2018-09-10 16:17:27.288 close father pid : 4572
+2018-09-10 16:17:27.288 close father pid error : 4572
+2018-09-10 16:19:45.821 Turn the background success
+2018-09-10 16:19:45.821 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 16:19:45.821 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 16:19:45.821 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 16:20:00.968  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-10 16:20:00.968 thread is exist
+2018-09-10 16:20:03.101 close child pid : 6241
+2018-09-10 16:20:03.102 close father pid : 6223
+2018-09-10 16:23:04.153 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 16:23:04.153 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 16:23:04.154 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 16:29:01.202 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 16:29:01.202 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 16:29:01.202 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 16:33:45.383 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 16:33:45.383 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 16:33:45.383 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 16:39:18.226 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 16:39:18.227 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 16:39:18.227 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 16:44:19.791 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 16:44:19.792 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 16:44:19.792 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 16:45:06.045 Turn the background success
+2018-09-10 16:45:06.046 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 16:45:06.046 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 16:45:06.046 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 16:46:17.268  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-10 16:46:17.268 thread is exist
+2018-09-10 16:46:36.846 close child pid : 18527
+2018-09-10 16:46:36.846 close father pid : 18510
+2018-09-10 17:00:51.475 Turn the background success
+2018-09-10 17:00:51.475 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 17:00:51.476 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 17:00:51.476 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 17:01:51.344  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-10 17:01:51.344 thread is exist
+2018-09-10 17:01:54.434 close child pid : 26275
+2018-09-10 17:01:54.434 close father pid : 26248
+2018-09-10 17:13:15.682 Turn the background success
+2018-09-10 17:13:15.686 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 17:13:15.686 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 17:13:15.686 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 17:13:47.129 close child pid : 32073
+2018-09-10 17:13:47.130 close father pid : 32056
+2018-09-10 17:13:52.708 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 17:13:52.708 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 17:13:52.708 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 17:15:11.309 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 17:15:11.309 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 17:15:11.309 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 17:15:50.144 Turn the background success
+2018-09-10 17:15:50.146 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 17:15:50.146 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 17:15:50.146 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 17:16:24.541  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-10 17:16:24.542 thread is exist
+2018-09-10 17:16:25.469  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-10 17:16:25.469 thread is exist
+2018-09-10 17:16:31.438  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-10 17:16:31.438 thread is exist
+2018-09-10 17:19:43.036 close child pid : 831
+2018-09-10 17:19:43.037 close father pid : 812
+2018-09-10 17:19:49.674 Turn the background success
+2018-09-10 17:19:49.677 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 17:19:49.677 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 17:19:49.678 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 17:20:29.804 close child pid : 2884
+2018-09-10 17:20:29.805 close father pid : 2868
+2018-09-10 17:20:39.137 Turn the background success
+2018-09-10 17:20:39.141 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 17:20:39.141 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 17:20:39.141 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 17:26:25.388  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-10 17:26:25.388 thread is exist
+2018-09-10 17:26:45.242 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 17:27:14.305 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 17:27:38.312 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 17:28:03.349 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 17:28:32.084 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 17:28:32.141 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 17:28:32.141 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 17:29:39.684 close child pid : 3327
+2018-09-10 17:29:39.684 close father pid : 3311
+2018-09-10 18:44:51.440 Turn the background success
+2018-09-10 18:44:51.444 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 18:44:51.498 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 18:44:51.498 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 18:45:15.319  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-10 18:45:15.319 thread is exist
+2018-09-10 18:45:29.849 close child pid : 11671
+2018-09-10 18:45:29.850 close father pid : 11666
+2018-09-10 18:46:51.592 Turn the background success
+2018-09-10 18:46:51.595 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 18:46:51.633 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 18:46:51.633 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 18:46:51.633 timestamp_log LogInit error
+2018-09-10 18:48:19.864 close father pid : 12670
+2018-09-10 18:51:14.860 Turn the background success
+2018-09-10 18:51:14.864 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 18:51:14.913 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 18:51:14.914 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 18:51:14.914 timestamp_log LogInit error
+2018-09-10 18:51:14.914 close child pid : 14801
+2018-09-10 18:55:53.576  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-10 18:55:53.577 thread is exist
+2018-09-10 19:02:22.505 close father pid : 14801
+2018-09-10 19:02:39.809 Turn the background success
+2018-09-10 19:02:39.812 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 19:02:39.865 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 19:02:39.865 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 19:02:39.865 timestamp_log LogInit error
+2018-09-10 19:02:39.865 close child pid : 20506
+2018-09-10 19:03:09.892 close father pid : 20506
+2018-09-10 19:08:11.509 Turn the background success
+2018-09-10 19:08:11.513 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 19:08:11.563 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 19:08:11.563 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 19:08:11.563 timestamp_log LogInit error
+2018-09-10 19:08:11.564 close child pid : 23070
+2018-09-10 19:09:30.254 close father pid : 23070
+2018-09-10 19:17:17.969 Turn the background success
+2018-09-10 19:17:17.971 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 19:17:18.011 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 19:17:18.011 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 19:17:18.012 timestamp_log LogInit error
+2018-09-10 19:17:18.012 close child pid : 27540
+2018-09-10 19:17:18.013 close father pid : 27536
+2018-09-10 19:18:11.694 Turn the background success
+2018-09-10 19:18:11.698 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 19:18:11.750 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 19:18:11.750 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 19:18:11.751 timestamp_log LogInit error
+2018-09-10 19:18:11.751 close child pid : 28060
+2018-09-10 19:18:11.751 close father pid : 28057
+2018-09-10 19:19:24.026 Turn the background success
+2018-09-10 19:19:24.029 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 19:19:24.072 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 19:19:24.072 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 19:19:45.096  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-10 19:19:45.096 thread is exist
+2018-09-10 19:19:47.498 close child pid : 28654
+2018-09-10 19:19:47.498 close father pid : 28648
+2018-09-10 19:25:44.284 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 19:25:44.339 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 19:25:44.339 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 20:07:53.271 Turn the background success
+2018-09-10 20:08:43.250 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 20:08:43.290 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 20:08:43.291 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 20:08:55.580 Turn the background success
+2018-09-10 20:14:33.547 Turn the background success
+2018-09-10 20:14:43.883 Turn the background success
+2018-09-10 20:15:01.906 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 20:15:01.944 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 20:15:01.944 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 20:16:19.809 Turn the background success
+2018-09-10 20:17:44.741 Turn the background success
+2018-09-10 20:19:47.468 Turn the background success
+2018-09-10 20:19:58.618 Turn the background success
+2018-09-10 20:23:44.852 Turn the background success
+2018-09-10 20:23:44.854 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 20:23:44.889 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 20:23:44.889 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 20:23:57.205 close child pid : 26205
+2018-09-10 20:23:57.205 close father pid : 26202
+2018-09-10 21:04:20.602 Turn the background success
+2018-09-10 21:04:20.605 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-10 21:04:20.652 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-10 21:04:20.652 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-10 21:04:45.733  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-10 21:04:45.733 thread is exist
+2018-09-10 21:04:47.490  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-10 21:04:47.490 thread is exist
+2018-09-10 21:04:49.244 close child pid : 13824
+2018-09-10 21:04:49.244 close father pid : 13821
+2018-09-11 09:41:01.416 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-11 09:41:01.461 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-11 09:41:01.461 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-11 09:41:01.472 Turn the background success
+2018-09-11 09:42:13.070 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-11 09:42:13.108 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-11 09:42:13.108 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-11 09:42:13.118  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-11 09:42:13.119 thread is exist
+2018-09-11 09:43:09.981 close child pid : 19591
+2018-09-11 09:43:09.982 close father pid : 19587
+2018-09-11 09:58:35.828 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-11 09:58:35.883 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-11 09:58:35.884 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-11 09:58:35.892 Turn the background success
+2018-09-11 09:59:18.836 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-11 09:59:18.898 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-11 09:59:18.898 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-11 09:59:18.914  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-11 09:59:18.914 thread is exist
+2018-09-11 09:59:52.545 close child pid : 28468
+2018-09-11 09:59:52.546 close father pid : 28465
+2018-09-11 10:11:13.186 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-11 10:11:13.235 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-11 10:11:13.235 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-11 10:11:21.250 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-11 10:11:21.301 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-11 10:11:21.301 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-11 10:11:21.315 Turn the background success
+2018-09-11 10:11:44.319 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-11 10:12:03.707 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-11 10:12:03.763 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-11 10:12:03.764 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-11 10:12:03.778  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-11 10:12:03.778 thread is exist
+2018-09-11 10:14:06.858 close child pid : 2265
+2018-09-11 10:14:06.859 close father pid : 2262
+2018-09-11 11:18:00.086 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-11 11:18:00.143 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-11 11:18:00.143 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-11 11:18:00.158 Turn the background success
+2018-09-11 11:18:45.520 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-11 11:18:45.576 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-11 11:18:45.576 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-11 11:18:45.584  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-11 11:18:45.584 thread is exist
+2018-09-11 11:19:08.170 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-11 11:20:12.721 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-11 11:20:12.758 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-11 11:20:12.758 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-11 11:20:12.772  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-11 11:20:12.772 thread is exist
+2018-09-11 11:20:15.257 close child pid : 32100
+2018-09-11 11:20:15.258 close father pid : 32097
+2018-09-11 14:23:07.724 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-11 14:23:07.779 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-11 14:23:07.779 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-11 14:23:07.794 Turn the background success
+2018-09-11 14:25:28.432 close child pid : 19980
+2018-09-11 14:25:28.433 close father pid : 19977
+2018-09-11 15:37:23.687 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-11 15:37:23.737 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-11 15:37:23.737 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-11 15:39:32.975 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-11 15:39:33.033 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-11 15:39:33.033 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-11 16:01:03.445 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-11 16:01:03.498 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-11 16:01:03.498 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-11 16:02:18.510 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-11 16:03:27.221 close child pid : 28562
+2018-09-11 16:05:41.776 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-11 16:05:41.813 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-11 16:05:41.813 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-11 16:06:02.819 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-11 16:08:21.701 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-11 16:08:21.735 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-11 16:08:21.735 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-11 16:08:29.739 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-11 16:08:54.800 close child pid : 30822
+2018-09-11 16:08:57.655 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-11 16:08:57.710 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-11 16:08:57.710 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-11 16:09:12.715 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-11 16:09:44.722 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-11 16:14:20.642 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-11 16:14:20.687 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-11 16:14:20.687 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-11 16:14:29.692 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-11 16:15:18.702 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-11 16:19:30.536 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-11 16:19:30.591 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-11 16:19:30.591 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-11 16:23:17.235 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-11 16:23:17.274 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-11 16:23:17.274 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-11 16:23:25.278 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-11 16:23:43.029 close child pid : 7321
+2018-09-11 16:25:07.163 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-11 16:25:07.218 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-11 16:25:07.218 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-11 16:25:14.222 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-11 16:29:02.754 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-11 16:29:02.814 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-11 16:29:02.814 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-11 16:29:09.818 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-11 16:35:03.100 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-11 16:35:03.156 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-11 16:35:03.156 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-11 16:35:19.164 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-11 16:36:32.919 close child pid : 8250
+2018-09-11 16:51:59.343 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-11 16:51:59.399 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-11 16:51:59.400 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-11 16:52:09.404 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-11 17:10:41.553 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-11 17:10:41.606 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-11 17:10:41.606 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-11 17:10:41.620 Turn the background success
+2018-09-11 19:00:52.195 close child pid : 30540
+2018-09-11 19:00:52.196 close father pid : 30537
+2018-09-12 10:06:05.046 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 10:06:05.101 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 10:06:05.101 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 10:06:35.108 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 10:07:14.116 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 10:08:03.126 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 10:08:33.134 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 10:08:57.139 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 10:09:33.147 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 10:25:36.546 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 10:25:36.601 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 10:25:36.601 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 10:27:46.620 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 10:28:05.626 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 10:28:37.633 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 10:28:42.635 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 10:30:46.352 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 10:30:46.394 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 10:30:46.394 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 10:31:14.401 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 10:31:18.405 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 10:32:36.241 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 10:32:36.296 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 10:32:36.296 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 10:32:57.301 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 10:33:03.305 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 10:33:23.311 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 10:42:24.584 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 10:42:24.639 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 10:42:24.639 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 10:42:49.645 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 10:42:57.650 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 10:43:11.655 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 10:44:39.054 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 10:44:39.110 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 10:44:39.110 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 10:44:51.115 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 11:51:50.816 libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 11:51:50.871 libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 11:51:50.872 libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 12:50:16.653 Turn the background success
+2018-09-12 12:50:51.322 close child pid : 3381
+2018-09-12 12:50:51.323 close father pid : 3378
+2018-09-12 13:20:19.586 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 13:20:19.633 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 13:20:19.633 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 14:41:04.150 Turn the background success
+2018-09-12 14:41:07.678 close child pid : 24020
+2018-09-12 14:41:07.678 close father pid : 24011
+2018-09-12 14:48:38.020 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 14:48:38.081 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 14:48:38.081 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 15:16:40.671 /home/weienjun/wiki/practice2.2/end/practice2.1/business/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 15:16:40.727 /home/weienjun/wiki/practice2.2/end/practice2.1/business/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 15:16:40.727 /home/weienjun/wiki/practice2.2/end/practice2.1/business/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 15:18:07.254 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 15:19:03.693 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 15:19:03.749 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 15:19:03.749 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 15:21:26.788 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 15:21:26.845 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 15:21:26.845 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 15:25:35.825 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 15:26:26.615 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 15:27:14.215 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 15:28:09.867 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 15:28:09.905 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 15:28:09.906 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 15:48:32.230 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 15:48:32.281 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 15:48:32.281 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 15:48:37.286 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 15:48:37.343 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 15:48:37.344 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 15:48:37.360 Turn the background success
+2018-09-12 15:48:52.367 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 15:49:28.374 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 15:50:29.626 close child pid : 24600
+2018-09-12 15:50:29.627 close father pid : 24596
+2018-09-12 15:50:51.881 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 15:50:51.938 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 15:50:51.939 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 15:50:51.953 Turn the background success
+2018-09-12 15:51:01.958 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 15:51:21.396 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 15:51:21.452 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 15:51:21.452 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 15:51:21.461  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-12 15:51:21.461 thread is exist
+2018-09-12 15:51:29.890 close child pid : 25624
+2018-09-12 15:51:29.891 close father pid : 25620
+2018-09-12 15:51:46.719 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 15:51:46.764 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 15:51:46.764 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 16:43:30.300 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 16:43:30.350 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 16:43:30.350 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 16:43:30.364 Turn the background success
+2018-09-12 16:44:33.938 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 16:44:33.980 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 16:44:33.981 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 16:44:33.997  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-12 16:44:33.997 thread is exist
+2018-09-12 16:44:52.000 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 16:44:52.039 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 16:44:52.040 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 16:44:52.051  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-12 16:44:52.051 thread is exist
+2018-09-12 16:45:40.069 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 16:45:40.125 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 16:45:40.125 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 16:45:40.140  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-12 16:45:40.140 thread is exist
+2018-09-12 16:46:12.915 close child pid : 18752
+2018-09-12 16:46:25.976 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 16:46:26.023 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 16:46:26.023 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 16:46:26.039 Turn the background success
+2018-09-12 16:49:19.584 close child pid : 20118
+2018-09-12 16:51:18.772 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 16:51:18.817 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 16:51:18.817 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 16:51:18.830 Turn the background success
+2018-09-12 16:53:02.559 close child pid : 22263
+2018-09-12 16:54:38.986 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 16:54:39.033 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 16:54:39.033 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 16:54:52.586 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 16:54:52.645 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 16:54:52.645 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 16:55:29.962 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 16:55:30.018 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 16:55:30.018 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 16:56:30.265 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 16:56:30.320 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 16:56:30.321 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 16:57:15.193 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 16:57:15.251 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 16:57:15.252 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 16:58:25.466 close child pid : 23839
+2018-09-12 16:58:31.089 close child pid : 24317
+2018-09-12 16:58:38.538 close child pid : 24851
+2018-09-12 16:58:45.929 close child pid : 25252
+2018-09-12 17:07:18.513 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 17:07:18.572 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 17:07:18.572 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 17:08:20.992 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 17:08:21.042 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 17:08:21.042 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 17:09:43.992 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 17:09:44.050 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 17:09:44.050 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 17:12:18.451 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 17:12:18.491 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 17:12:18.491 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 17:13:08.470 close child pid : 29935
+2018-09-12 17:13:14.608 close child pid : 30470
+2018-09-12 17:13:25.486 close child pid : 31182
+2018-09-12 17:14:26.643 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 17:14:26.685 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 17:14:26.685 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 17:14:42.696 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 17:15:03.702 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 17:16:02.746 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 17:16:02.803 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 17:16:02.803 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 17:16:47.353 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 17:16:47.408 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 17:16:47.408 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 17:17:16.170 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 17:17:16.227 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 17:17:16.228 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 17:17:23.802 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 17:17:23.863 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 17:17:23.863 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 17:17:38.099 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 17:17:38.158 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 17:17:38.158 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 17:18:20.257 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 17:18:20.308 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 17:18:20.309 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 17:18:20.320 Turn the background success
+2018-09-12 17:18:24.063 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 17:18:24.102 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 17:18:24.102 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 17:18:24.117  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-12 17:18:24.117 thread is exist
+2018-09-12 17:18:24.865 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 17:18:24.908 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 17:18:24.909 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 17:18:24.923  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-12 17:18:24.923 thread is exist
+2018-09-12 17:18:29.648 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 17:18:29.698 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 17:18:29.698 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 17:18:29.713  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-12 17:18:29.713 thread is exist
+2018-09-12 17:18:32.104 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 17:18:32.146 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 17:18:32.147 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 17:18:32.162  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-12 17:18:32.162 thread is exist
+2018-09-12 17:18:36.920 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 17:18:36.978 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 17:18:36.978 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 17:18:36.979 close child pid : 2891
+2018-09-12 17:18:36.979 close father pid : 2888
+2018-09-12 17:53:21.027 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 17:53:21.065 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 17:53:21.065 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 17:53:21.080 lock file success
+2018-09-12 17:53:21.081 Turn the background success
+2018-09-12 17:54:37.095 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 17:55:11.475 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 17:55:11.527 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 17:55:11.527 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 17:55:11.537  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-12 17:55:11.537 thread is exist
+2018-09-12 17:55:38.106 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 17:55:41.436 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 17:55:41.485 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 17:55:41.485 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 17:55:41.500  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-12 17:55:41.500 thread is exist
+2018-09-12 17:56:11.956 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 17:56:12.010 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 17:56:12.010 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 17:56:32.407 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 17:56:32.461 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 17:56:32.461 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 17:57:00.374 close child pid : 19106
+2018-09-12 17:57:00.375 close father pid : 19105
+2018-09-12 18:03:21.654 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 18:03:21.704 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 18:03:21.704 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 18:03:21.713 lock file success
+2018-09-12 18:03:21.713 Turn the background success
+2018-09-12 18:03:57.198 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 18:03:57.247 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 18:03:57.247 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 18:03:57.248 close child pid : 23839
+2018-09-12 18:03:57.248 close father pid : 23838
+2018-09-12 18:08:00.739 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 18:08:00.794 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 18:08:00.794 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 18:08:00.810 lock file success
+2018-09-12 18:08:00.811 Turn the background success
+2018-09-12 18:09:09.898 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 18:09:09.954 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 18:09:09.954 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 18:09:09.955 close child pid : 26229
+2018-09-12 18:09:09.955 close father pid : 26228
+2018-09-12 18:09:15.154 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 18:09:15.208 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 18:09:15.208 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 18:16:24.917 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 18:16:24.974 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 18:16:24.974 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 18:16:24.985 lock file success
+2018-09-12 18:16:24.985 Turn the background success
+2018-09-12 18:18:57.980 close child pid : 30165
+2018-09-12 18:18:57.981 close father pid : 30164
+2018-09-12 19:13:13.048 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 19:13:13.089 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 19:13:13.089 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 19:13:13.103 lock file success
+2018-09-12 19:13:13.104 Turn the background success
+2018-09-12 19:13:28.325 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 19:13:28.374 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 19:13:28.374 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 19:13:28.384  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-12 19:13:28.384 thread is exist
+2018-09-12 19:13:38.368 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 19:13:38.423 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 19:13:38.423 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 19:13:38.424 close child pid : 28017
+2018-09-12 19:13:38.424 close father pid : 28016
+2018-09-12 19:13:40.843 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 19:13:40.883 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 19:13:40.883 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 19:13:40.898 lock file success
+2018-09-12 19:13:40.899 Turn the background success
+2018-09-12 19:13:41.806 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 19:13:41.861 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 19:13:41.861 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 19:13:41.878  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-12 19:13:41.878 thread is exist
+2018-09-12 19:17:26.432 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 19:17:26.474 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 19:17:26.474 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 19:17:26.474 close child pid : 28276
+2018-09-12 19:17:26.475 close father pid : 28275
+2018-09-12 19:17:55.050 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 19:17:55.114 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 19:17:55.115 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 19:18:15.843 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 19:18:15.899 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 19:18:15.899 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 19:18:38.202 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 19:18:38.247 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 19:18:38.247 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 19:19:03.362 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 19:19:03.404 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 19:19:03.405 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 19:19:03.414 lock file success
+2018-09-12 19:19:03.414 Turn the background success
+2018-09-12 19:19:05.175 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 19:19:05.216 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 19:19:05.216 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 19:19:05.230  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-12 19:19:05.231 thread is exist
+2018-09-12 19:19:06.081 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 19:19:06.138 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 19:19:06.138 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 19:19:06.153  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-12 19:19:06.153 thread is exist
+2018-09-12 19:20:28.985 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 19:20:29.044 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 19:20:29.045 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 19:20:29.045 close child pid : 30915
+2018-09-12 19:20:29.046 close father pid : 30914
+2018-09-12 19:22:00.885 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 19:22:00.922 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 19:22:00.923 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 19:22:00.937 lock file success
+2018-09-12 19:22:00.937 Turn the background success
+2018-09-12 19:25:11.004 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 19:25:11.061 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 19:25:11.061 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 19:25:11.062 close child pid : 32679
+2018-09-12 19:25:11.062 close father pid : 32678
+2018-09-12 19:50:47.685 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 19:50:47.739 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 19:50:47.739 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 19:50:47.755 lock file success
+2018-09-12 19:50:47.755 Turn the background success
+2018-09-12 19:51:28.237 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 19:51:28.294 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 19:51:28.294 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 19:51:28.305  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-12 19:51:28.305 thread is exist
+2018-09-12 19:53:04.100 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 19:53:04.158 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 19:53:04.158 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 19:53:04.168  can't lock /home/weienjun/wiki/practice2.2/end/practice2.1/data/pid_file.pid
+2018-09-12 19:53:04.168 thread is exist
+2018-09-12 19:53:31.972 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 19:53:32.027 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 19:53:32.027 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 19:53:32.027 close child pid : 13177
+2018-09-12 19:53:32.028 close father pid : 13176
+2018-09-12 19:54:07.986 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 19:54:08.043 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 19:54:08.043 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 19:54:08.059 lock file success
+2018-09-12 19:54:08.059 Turn the background success
+2018-09-12 19:55:02.585 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 19:55:02.642 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 19:55:02.643 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 19:55:02.643 close child pid : 15004
+2018-09-12 19:55:02.643 close father pid : 15003
+2018-09-12 19:57:13.664 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 19:57:13.722 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 19:57:13.722 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 19:57:13.737 lock file success
+2018-09-12 19:57:13.737 Turn the background success
+2018-09-12 20:01:35.484 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 20:01:35.539 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 20:01:35.540 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 20:01:35.554  can't lock /tmp/lock_file.lock
+2018-09-12 20:01:35.554 thread is exist
+2018-09-12 20:02:04.828 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso1.conf
+2018-09-12 20:02:04.867 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso2.conf
+2018-09-12 20:02:04.867 /home/weienjun/wiki/practice2.2/end/practice2.1/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2.2/end/practice2.1/conf/libso3.conf
+2018-09-12 20:02:04.868 close child pid : 16827
+2018-09-12 20:02:04.868 close father pid : 16826
+2018-09-13 17:17:42.559 /home/weienjun/wiki/practice2/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2/conf/libso1.conf
+2018-09-13 17:17:42.598 /home/weienjun/wiki/practice2/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2/conf/libso2.conf
+2018-09-13 17:17:42.598 /home/weienjun/wiki/practice2/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2/conf/libso3.conf
+2018-09-13 17:17:42.613 lock file success
+2018-09-13 17:17:42.614 Turn the background success
+2018-09-13 17:18:15.465 /home/weienjun/wiki/practice2/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2/conf/libso1.conf
+2018-09-13 17:18:15.520 /home/weienjun/wiki/practice2/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2/conf/libso2.conf
+2018-09-13 17:18:15.520 /home/weienjun/wiki/practice2/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2/conf/libso3.conf
+2018-09-13 17:18:15.535  can't lock /tmp/lock_file.lock
+2018-09-13 17:18:15.535 thread is exist
+2018-09-13 17:18:45.989 /home/weienjun/wiki/practice2/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2/conf/libso1.conf
+2018-09-13 17:18:46.045 /home/weienjun/wiki/practice2/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2/conf/libso2.conf
+2018-09-13 17:18:46.046 /home/weienjun/wiki/practice2/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2/conf/libso3.conf
+2018-09-13 17:19:12.392 /home/weienjun/wiki/practice2/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2/conf/libso1.conf
+2018-09-13 17:19:12.441 /home/weienjun/wiki/practice2/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2/conf/libso2.conf
+2018-09-13 17:19:12.442 /home/weienjun/wiki/practice2/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2/conf/libso3.conf
+2018-09-13 17:19:16.344 /home/weienjun/wiki/practice2/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2/conf/libso1.conf
+2018-09-13 17:19:16.401 /home/weienjun/wiki/practice2/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2/conf/libso2.conf
+2018-09-13 17:19:16.401 /home/weienjun/wiki/practice2/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2/conf/libso3.conf
+2018-09-13 17:19:16.402 close child pid : 6766
+2018-09-13 17:19:16.402 close father pid : 6765
+2018-09-13 19:58:55.163 /home/weienjun/wiki/practice2/lib/libso1.so 添加配置文件/home/weienjun/wiki/practice2/conf/libso1.conf
+2018-09-13 19:58:55.223 /home/weienjun/wiki/practice2/lib/libso2.so 添加配置文件/home/weienjun/wiki/practice2/conf/libso2.conf
+2018-09-13 19:58:55.227 /home/weienjun/wiki/practice2/lib/libso3.so 添加配置文件/home/weienjun/wiki/practice2/conf/libso3.conf
