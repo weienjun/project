@@ -1,0 +1,69 @@
+﻿  P2P_ENDDlg.cpp
+c:\users\魏恩军\desktop\p2pchatend1\p2p_client\p2p_end\p2pbase.h(26): warning C4005: 'MAXLONG': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\winnt.h(1099): note: see previous definition of 'MAXLONG'
+c:\users\魏恩军\desktop\p2pchatend1\p2p_client\p2p_end\p2pbase.h(65): warning C4091: 'typedef ': ignored on left of 'UserData' when no variable is declared
+c:\users\魏恩军\desktop\p2pchatend1\p2p_client\p2p_end\p2pbase.h(84): warning C4091: 'typedef ': ignored on left of 'Message' when no variable is declared
+c:\users\魏恩军\desktop\p2pchatend1\p2p_client\p2p_end\p2pbase.h(96): warning C4091: 'typedef ': ignored on left of 'ServerData' when no variable is declared
+c:\users\魏恩军\desktop\p2pchatend1\p2p_client\p2p_end\p2pbase.h(108): warning C4091: 'typedef ': ignored on left of 'PeerData' when no variable is declared
+c:\users\魏恩军\desktop\p2pchatend1\p2p_client\p2p_end\p2p_enddlg.cpp(203): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\魏恩军\desktop\p2pchatend1\p2p_client\p2p_end\p2p_enddlg.cpp(205): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\魏恩军\desktop\p2pchatend1\p2p_client\p2p_end\p2p_enddlg.cpp(206): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\魏恩军\desktop\p2pchatend1\p2p_client\p2p_end\p2p_enddlg.cpp(209): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\魏恩军\desktop\p2pchatend1\p2p_client\p2p_end\p2p_enddlg.cpp(228): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\魏恩军\desktop\p2pchatend1\p2p_client\p2p_end\p2p_enddlg.cpp(545): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\魏恩军\desktop\p2pchatend1\p2p_client\p2p_end\p2p_enddlg.cpp(546): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\魏恩军\desktop\p2pchatend1\p2p_client\p2p_end\p2p_enddlg.cpp(577): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\魏恩军\desktop\p2pchatend1\p2p_client\p2p_end\p2p_enddlg.cpp(716): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\魏恩军\desktop\p2pchatend1\p2p_client\p2p_end\p2p_enddlg.cpp(717): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\魏恩军\desktop\p2pchatend1\p2p_client\p2p_end\p2p_enddlg.cpp(725): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\魏恩军\desktop\p2pchatend1\p2p_client\p2p_end\p2p_enddlg.cpp(734): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\魏恩军\desktop\p2pchatend1\p2p_client\p2p_end\p2p_enddlg.cpp(896): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\魏恩军\desktop\p2pchatend1\p2p_client\p2p_end\p2p_enddlg.cpp(897): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\魏恩军\desktop\p2pchatend1\p2p_client\p2p_end\p2p_enddlg.cpp(898): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\魏恩军\desktop\p2pchatend1\p2p_client\p2p_end\p2p_enddlg.cpp(909): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\魏恩军\desktop\p2pchatend1\p2p_client\p2p_end\p2p_enddlg.cpp(974): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\魏恩军\desktop\p2pchatend1\p2p_client\p2p_end\p2p_enddlg.cpp(975): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\魏恩军\desktop\p2pchatend1\p2p_client\p2p_end\p2p_enddlg.cpp(976): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\魏恩军\desktop\p2pchatend1\p2p_client\p2p_end\p2p_enddlg.cpp(986): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\魏恩军\desktop\p2pchatend1\p2p_client\p2p_end\p2p_enddlg.cpp(1024): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\魏恩军\desktop\p2pchatend1\p2p_client\p2p_end\p2p_enddlg.cpp(1026): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\魏恩军\desktop\p2pchatend1\p2p_client\p2p_end\p2p_enddlg.cpp(1027): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\魏恩军\desktop\p2pchatend1\p2p_client\p2p_end\p2p_enddlg.cpp(1038): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\魏恩军\desktop\p2pchatend1\p2p_client\p2p_end\p2p_enddlg.cpp(1081): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\魏恩军\desktop\p2pchatend1\p2p_client\p2p_end\p2p_enddlg.cpp(1082): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\魏恩军\desktop\p2pchatend1\p2p_client\p2p_end\p2p_enddlg.cpp(1089): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\魏恩军\desktop\p2pchatend1\p2p_client\p2p_end\p2p_enddlg.cpp(1092): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\魏恩军\desktop\p2pchatend1\p2p_client\p2p_end\p2p_enddlg.cpp(1126): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\魏恩军\desktop\p2pchatend1\p2p_client\p2p_end\p2p_enddlg.cpp(1127): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  P2P_END.vcxproj -> C:\Users\魏恩军\Desktop\p2pChatEnd1\P2P_Client\Debug\P2P_END.exe
+  P2P_END.vcxproj -> C:\Users\魏恩军\Desktop\p2pChatEnd1\P2P_Client\Debug\P2P_END.pdb (Full PDB)

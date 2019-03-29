@@ -1,0 +1,15 @@
+﻿  P2P_IMDlg.cpp
+c:\users\魏恩军\desktop\p2pchatend1\p2p_server\p2p_im\p2p_imdlg.cpp(229): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\魏恩军\desktop\p2pchatend1\p2p_server\p2p_im\p2p_imdlg.cpp(237): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\魏恩军\desktop\p2pchatend1\p2p_server\p2p_im\p2p_imdlg.cpp(248): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\魏恩军\desktop\p2pchatend1\p2p_server\p2p_im\p2p_imdlg.cpp(255): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\魏恩军\desktop\p2pchatend1\p2p_server\p2p_im\p2p_imdlg.cpp(449): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\魏恩军\desktop\p2pchatend1\p2p_server\p2p_im\p2p_imdlg.cpp(527): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  P2P_IM.vcxproj -> C:\Users\魏恩军\Desktop\p2pChatEnd1\P2P_Server\Debug\P2P_IM.exe
+  P2P_IM.vcxproj -> C:\Users\魏恩军\Desktop\p2pChatEnd1\P2P_Server\Debug\P2P_IM.pdb (Full PDB)
